@@ -20,6 +20,7 @@ The financial software is primarily focused on personal financial software that 
 - [ ] works with Form 1040
 - [ ] update through GUI the IRA amount
 - [ ] Meets US GAAP and IFRA requirements
+- [ ] [Supports the same forms as free file fillable Forms and more: https://www.irs.gov/e-file-providers/free-file-fillable-forms-program-limitations-and-available-forms](https://www.irs.gov/e-file-providers/free-file-fillable-forms-program-limitations-and-available-forms)
 - [ ] incorporates judy's spreadsheets and icelandic tax return
     - [ ] AAAATaxes
     - [ ] AAAAincome
