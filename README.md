@@ -19,6 +19,7 @@ The financial software is primarily focused on personal financial software that 
 - [ ] ties into moses software
 - [ ] works with Form 1040
 - [ ] update through GUI the IRA amount
+- [ ] Meets US GAAP and IFRA requirements
 - [ ] incorporates judy's spreadsheets and icelandic tax return
     - [ ] AAAATaxes
     - [ ] AAAAincome
