@@ -34,4 +34,5 @@ The financial software is primarily focused on personal financial software that 
 - [ ] FACTa
 ## Resources
 [https://www.irs.gov/pub/irs-pdf/f8992.pdf](https://www.irs.gov/pub/irs-pdf/f8992.pdf)
+[dormant corporations - goldinglawyers.com](https://www.goldinglawyers.com/irs-revenue-procedure-92-70-5471-dormant-cfc-rules/#:~:text=IRS%20Revenue%20Procedure%2092%2D70%3A%20The%20IRS%20form%205471%20is,5471%20can%20be%20quite%20complicated.)
 
