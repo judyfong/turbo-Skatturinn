@@ -21,6 +21,7 @@ The financial software is primarily focused on personal financial software that 
 - [ ] update through GUI the IRA amount
 - [ ] Meets US GAAP and IFRA requirements
 - [ ] [Supports the same forms as free file fillable Forms and more: https://www.irs.gov/e-file-providers/free-file-fillable-forms-program-limitations-and-available-forms](https://www.irs.gov/e-file-providers/free-file-fillable-forms-program-limitations-and-available-forms)
+- [ ] access the irs foreign currency exchange rates as an api: [https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates) either json or as an fastapi endpoint
 - [ ] incorporates judy's spreadsheets and icelandic tax return
     - [ ] AAAATaxes
     - [ ] AAAAincome
