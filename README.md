@@ -1,7 +1,7 @@
 # Turbo Skatturinn
 software that works for both USA and Icelandic taxes for business owners
 
-The financial software is primarily focused on personal financial software that generates a USA tax liability form and imports information from the Icelandic tax reporting authority. 
+The financial software is primarily focused on personal financial software that generates a USA tax liability form and imports information from the Icelandic tax reporting authority. We are willing to pay a maximum of 1 million ISK for the first year of operating expenses. 
 
 ## Side software
 1. As a side thing there will also be some software that uses OCR to read your Icelandic payslip and puts it into English and or layman speak so it's easy for you to read.
@@ -16,6 +16,12 @@ The financial software is primarily focused on personal financial software that 
 - [ ] ties into trackyourmoney
 - [ ] ties into moses software
 - [ ] works with Form 1040
+- [ ] incorporates judy's spreadsheets and icelandic tax return
+    - [ ] AAAATaxes
+    - [ ] AAAAincome
+    - [ ] AAAAnetworth
+    - [ ] AAAAothersNetWorth
+    - [ ] AAAAFramtal
 ### buisness owners
 - [ ] Form 926
 - [ ] form 5471
