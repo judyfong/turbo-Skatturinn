@@ -15,6 +15,7 @@ The financial software is primarily focused on personal financial software that 
 - [ ] FBAR form (FinCEn form 114)
 - [ ] ties into trackyourmoney
 - [ ] ties into moses software
+- [ ] works with Form 1040
 ### buisness owners
 - [ ] Form 926
 - [ ] form 5471
