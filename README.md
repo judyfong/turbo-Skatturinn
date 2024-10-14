@@ -27,8 +27,9 @@ The financial software is primarily focused on personal financial software that 
 ### buisness owners
 - [ ] Form 926
 - [ ] form 5471
-- [ ] Form 8992 - GILTI
+- [ ] Form 8992 - GILTI , [Instructions](https://www.irs.gov/instructions/i8992#en_US_202312_publink100046264)
 ### Rich people
 - [ ] FACTa
 ## Resources
 [https://www.irs.gov/pub/irs-pdf/f8992.pdf](https://www.irs.gov/pub/irs-pdf/f8992.pdf)
+
