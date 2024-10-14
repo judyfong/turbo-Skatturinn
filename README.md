@@ -10,6 +10,7 @@ The financial software is primarily focused on personal financial software that 
 
 ## Requirements
 - [ ] takes about 15 man-months
+- [ ] make the software open and free software
 - [ ] works in euros, ISK, and USD
 - [ ] future: ties into Skatturinn directly which is hopefully tied into island.is in the future
 - [ ] currently would use google forms as a frontend
