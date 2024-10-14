@@ -9,6 +9,7 @@ The financial software is primarily focused on personal financial software that 
 3. Also there will be a housing finder software to figure out when is the best time to busy a mortgage based on the user's inputting requirements and wishes.
 
 ## Requirements
+- [ ] takes about 15 man-months
 - [ ] works in euros, ISK, and USD
 - [ ] future: ties into Skatturinn directly which is hopefully tied into island.is in the future
 - [ ] currently would use google forms as a frontend
