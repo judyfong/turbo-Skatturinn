@@ -4,7 +4,8 @@ software that works for both USA and Icelandic taxes for business owners
 The financial software is primarily focused on personal financial software that generates a USA tax liability form and imports information 
 from the Icelandic tax reporting authority. We are willing to pay a maximum of 1 million ISK for the first year of operating expenses. The 
 idea is to replace the Mint personal finance software or YNAB (You need a budget). An Icelandic competitor would be Meniga. There is also 
-Firefly III financial software.
+Firefly III financial software. The goal is to earn 20,000 USD the first year and have a ten-fold increase for next year. of just Icelandic 
+customers. If we include other european customers like Czech, England, or Germany then it might be a hundred fold increase.
 
 ## Side software
 1. As a side thing there will also be some software that uses OCR to read your Icelandic payslip and puts it into English and or layman speak so it's easy for you to read.
@@ -12,6 +13,7 @@ Firefly III financial software.
 3. Also there will be a housing finder software to figure out when is the best time to busy a mortgage based on the user's inputting requirements and wishes.
 
 ## Requirements
+- [ ] Use the H&R block model for doing business and taxes
 - [ ] use csv form of the financial institution usa tax forms as inputs to this software
 - [ ] takes about 15 man-months
 - [ ] make the software open and free software
