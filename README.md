@@ -11,6 +11,15 @@ customers. If we include other european customers like Czech, England, or German
 1. As a side thing there will also be some software that uses OCR to read your Icelandic payslip and puts it into English and or layman speak so it's easy for you to read.
 2. [Compound Interest Calculator](https://github.com/Einfaldlega-Hugmyndir/Compound_Interest_Calculator)
 3. Also there will be a housing finder software to figure out when is the best time to busy a mortgage based on the user's inputting requirements and wishes.
+4. usa taxes
+cryptocurrency
+with Alexander
+my spreadsheets
+talk with Arnar Freyr
+home inventory manager
+OCR of written material to typed
+end of life manager folder
+home insurance itemization list
 
 ## Requirements
 - [ ] Use the H&R block model for doing business and taxes
@@ -38,6 +47,7 @@ customers. If we include other european customers like Czech, England, or German
 - [ ] Form 926
 - [ ] form 5471
 - [ ] Form 8992 - GILTI , [Instructions](https://www.irs.gov/instructions/i8992#en_US_202312_publink100046264)
+- [ ] comparable to powerBI
 ### Rich people
 - [ ] FACTa
 ## Resources
