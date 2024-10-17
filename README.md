@@ -48,6 +48,7 @@ home insurance itemization list
 - [ ] form 5471
 - [ ] Form 8992 - GILTI , [Instructions](https://www.irs.gov/instructions/i8992#en_US_202312_publink100046264)
 - [ ] comparable to powerBI
+- [ ] [https://github.com/judyfong/vid505g-arsreikningagerdA](https://github.com/judyfong/vid505g-arsreikningagerdA)
 ### Rich people
 - [ ] FACTa
 ## Resources
