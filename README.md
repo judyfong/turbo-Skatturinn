@@ -51,8 +51,12 @@ home insurance itemization list
 - [ ] [https://github.com/judyfong/vid505g-arsreikningagerdA](https://github.com/judyfong/vid505g-arsreikningagerdA)
 ### Rich people
 - [ ] FACTa
+
+
 ## Resources
 [https://www.irs.gov/pub/irs-pdf/f8992.pdf](https://www.irs.gov/pub/irs-pdf/f8992.pdf)
+[The Essential Guide to US Expat taxes from CPAsforExpats.com](https://www.cpasforexpats.com/post/us-expat-taxes-iceland)
 [dormant corporations - goldinglawyers.com](https://www.goldinglawyers.com/irs-revenue-procedure-92-70-5471-dormant-cfc-rules/#:~:text=IRS%20Revenue%20Procedure%2092%2D70%3A%20The%20IRS%20form%205471%20is,5471%20can%20be%20quite%20complicated.)
+Competitors: [https://bowennorthwest.com/](https://bowennorthwest.com/) and KPMG
 [IRS.gov international taxpayers interactive tools](https://www.irs.gov/individuals/international-taxpayers/international-taxpayers-interactive-tools)
 
