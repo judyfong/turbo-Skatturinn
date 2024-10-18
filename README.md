@@ -13,13 +13,26 @@ customers. If we include other european customers like Czech, England, or German
 3. Don't payout to anyone until the business starts earning income
 
 ## Goals
-### First year
+
+### Zeroth year
+- [ ] prove there is paying customers in this field that want this software
+- [ ] create an elevator pitch with pitch deck
+- [ ] identify potential employees
+
+### First year 2025
 - [ ] mailing list of 100 emails
-- [ ] 20,000 USD for the first tax season of 2025
+- [ ] 20,000 USD income for the first tax season of 2025 so about 10-20 paying customers
+- [ ] set ourselves up to use the software by 2025 tax season starting in february 2025
+- [ ] collect requirements list on usage from potential customers
+- [ ] QC up to 1.000.000 ISK
 
 ### Second year
 - [ ] pay ourselves a salary of about 10,000 - 20,000 ISK an hr
 - [ ] possibly pay one part-time employee
+- [ ] VC/Angel investing
+- [ ] interest from larger companies
+    - [ ] secure financing from KPMG or similar to see if there is company interest
+- [ ] pop-up booth like H&R block
 
 ## Side software
 1. As a side thing there will also be some software that uses OCR to read your Icelandic payslip and puts it into English and or layman speak so it's easy for you to read.
