@@ -7,6 +7,20 @@ idea is to replace the Mint personal finance software or YNAB (You need a budget
 Firefly III financial software. The goal is to earn 20,000 USD the first year and have a ten-fold increase for next year. of just Icelandic 
 customers. If we include other european customers like Czech, England, or Germany then it might be a hundred fold increase.
 
+## Investing
+1. Work for shares currently
+    2. Two founders, possibly one more    
+3. Don't payout to anyone until the business starts earning income
+
+## Goals
+### First year
+- [ ] mailing list of 100 emails
+- [ ] 20,000 USD for the first tax season of 2025
+
+### Second year
+- [ ] pay ourselves a salary of about 10,000 - 20,000 ISK an hr
+- [ ] possibly pay one part-time employee
+
 ## Side software
 1. As a side thing there will also be some software that uses OCR to read your Icelandic payslip and puts it into English and or layman speak so it's easy for you to read.
 2. [Compound Interest Calculator](https://github.com/Einfaldlega-Hugmyndir/Compound_Interest_Calculator)
@@ -37,6 +51,8 @@ home insurance itemization list
 - [ ] Meets US GAAP and IFRA requirements
 - [ ] [Supports the same forms as free file fillable Forms and more: https://www.irs.gov/e-file-providers/free-file-fillable-forms-program-limitations-and-available-forms](https://www.irs.gov/e-file-providers/free-file-fillable-forms-program-limitations-and-available-forms)
 - [ ] access the irs foreign currency exchange rates as an api: [https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates) either json or as an fastapi endpoint
+- [ ] csv import and export
+- [ ] integrate with other organizations
 - [ ] incorporates judy's spreadsheets and icelandic tax return
     - [ ] AAAATaxes
     - [ ] AAAAincome
@@ -57,6 +73,23 @@ home insurance itemization list
 [https://www.irs.gov/pub/irs-pdf/f8992.pdf](https://www.irs.gov/pub/irs-pdf/f8992.pdf)
 [The Essential Guide to US Expat taxes from CPAsforExpats.com](https://www.cpasforexpats.com/post/us-expat-taxes-iceland)
 [dormant corporations - goldinglawyers.com](https://www.goldinglawyers.com/irs-revenue-procedure-92-70-5471-dormant-cfc-rules/#:~:text=IRS%20Revenue%20Procedure%2092%2D70%3A%20The%20IRS%20form%205471%20is,5471%20can%20be%20quite%20complicated.)
-Competitors: [https://bowennorthwest.com/](https://bowennorthwest.com/) and KPMG
 [IRS.gov international taxpayers interactive tools](https://www.irs.gov/individuals/international-taxpayers/international-taxpayers-interactive-tools)
+
+## Competitors: 
+
+### Accounting
+[https://bowennorthwest.com/](https://bowennorthwest.com/), [https://payday.is/is/heim](https://payday.is/is/heim), and KPMG
+
+### Personal finance
+- firefly iii
+- Intuit mint
+-     phased out
+- YNAB - you need a budget
+-     currently operates as software as a service
+
+### Tax software
+- accountants
+- Intuit
+- freefillefillableforms
+    - missing some business forms     
 
