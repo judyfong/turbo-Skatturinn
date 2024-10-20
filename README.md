@@ -35,6 +35,9 @@ customers. If we include other european customers like Czech, England, or German
 - [ ] pop-up booth like H&R block
 - [ ] fulfill IFRS SME reporting standards
 
+### Third year
+- [ ] support eXtensible Business Reporting Language (XBRL)
+
 ## Side software
 1. As a side thing there will also be some software that uses OCR to read your Icelandic payslip and puts it into English and or layman speak so it's easy for you to read.
 2. [Compound Interest Calculator](https://github.com/Einfaldlega-Hugmyndir/Compound_Interest_Calculator)
