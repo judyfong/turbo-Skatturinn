@@ -33,6 +33,7 @@ customers. If we include other european customers like Czech, England, or German
 - [ ] interest from larger companies
     - [ ] secure financing from KPMG or similar to see if there is company interest
 - [ ] pop-up booth like H&R block
+- [ ] fulfill IFRS SME reporting standards
 
 ## Side software
 1. As a side thing there will also be some software that uses OCR to read your Icelandic payslip and puts it into English and or layman speak so it's easy for you to read.
