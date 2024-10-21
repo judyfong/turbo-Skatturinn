@@ -18,6 +18,7 @@ customers. If we include other european customers like Czech, England, or German
 - [x] Make [landing page](https://einfaldlega-hugmyndir.github.io/portfolio-modeling/) for [Portfolio-Modeling](https://github.com/Einfaldlega-Hugmyndir/portfolio-modeling)
 - [ ] landing page for Tax software,
 - [ ] landing page for TrackYourMoney (combine them onto one website/repo)
+- [ ] Make a mailing list using google forms for each of them, with a dropdown to choose which one people are interested in
 - [ ] prove there is paying customers in this field that want this software
 - [ ] create an elevator pitch with pitch deck
 - [ ] identify potential employees
