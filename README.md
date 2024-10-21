@@ -27,6 +27,7 @@ customers. If we include other european customers like Czech, England, or German
 - [ ] set ourselves up to use the software by 2025 tax season starting in february 2025
 - [ ] collect requirements list on usage from potential customers
 - [ ] QC up to 1.000.000 ISK
+- [ ] support amended tax returns: 1040x https://www.irs.gov/pub/irs-pdf/f1040x.pdf
 
 ### Second year
 - [ ] pay ourselves a salary of about 10,000 - 20,000 ISK an hr
