@@ -28,6 +28,7 @@ customers. If we include other european customers like Czech, England, or German
 - [ ] collect requirements list on usage from potential customers
 - [ ] QC up to 1.000.000 ISK
 - [ ] support amended tax returns: 1040x https://www.irs.gov/pub/irs-pdf/f1040x.pdf
+- [ ] focus on software for IFRS small and medium enterprises (SME)
 
 ### Second year
 - [ ] pay ourselves a salary of about 10,000 - 20,000 ISK an hr
