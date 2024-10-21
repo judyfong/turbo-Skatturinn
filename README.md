@@ -18,6 +18,7 @@ customers. If we include other european customers like Czech, England, or German
 - [ ] prove there is paying customers in this field that want this software
 - [ ] create an elevator pitch with pitch deck
 - [ ] identify potential employees
+- [ ] late filers who no longer have access to other us e-file options
 
 ### First year 2025
 - [ ] mailing list of 100 emails
