@@ -15,6 +15,7 @@ customers. If we include other european customers like Czech, England, or German
 ## Goals
 
 ### Zeroth year
+- [ ] Make landing page for Portfolio-Modeling, Tax software, and TrackYourMoney
 - [ ] prove there is paying customers in this field that want this software
 - [ ] create an elevator pitch with pitch deck
 - [ ] identify potential employees
