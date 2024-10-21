@@ -20,6 +20,7 @@ customers. If we include other european customers like Czech, England, or German
 - [ ] identify potential employees
 - [ ] late filers who no longer have access to other us e-file options
 - [ ] start with google forms for the US based forms
+- [ ] work with OpenTaxSolver as the basis software: [https://opentaxsolver.sourceforge.net/](https://opentaxsolver.sourceforge.net/)
 
 ### First year 2025
 - [ ] mailing list of 100 emails
@@ -38,6 +39,7 @@ customers. If we include other european customers like Czech, England, or German
     - [ ] secure financing from KPMG or similar to see if there is company interest
 - [ ] pop-up booth like H&R block
 - [ ] fulfill IFRS SME reporting standards
+- [ ] work to simplify the ársreinkingagerð for icelandic entities
 
 ### Third year
 - [ ] support eXtensible Business Reporting Language (XBRL)
