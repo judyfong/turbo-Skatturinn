@@ -17,7 +17,7 @@ customers. If we include other european customers like Czech, England, or German
 ### Zeroth year
 - [x] Make [landing page](https://einfaldlega-hugmyndir.github.io/portfolio-modeling/) for [Portfolio-Modeling](https://github.com/Einfaldlega-Hugmyndir/portfolio-modeling)
 - [ ] landing page for Tax software,
-- [ ] landing page for TrackYourMoney
+- [ ] landing page for TrackYourMoney (combine them onto one website/repo)
 - [ ] prove there is paying customers in this field that want this software
 - [ ] create an elevator pitch with pitch deck
 - [ ] identify potential employees
