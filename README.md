@@ -19,6 +19,7 @@ customers. If we include other european customers like Czech, England, or German
 - [ ] create an elevator pitch with pitch deck
 - [ ] identify potential employees
 - [ ] late filers who no longer have access to other us e-file options
+- [ ] start with google forms for the US based forms
 
 ### First year 2025
 - [ ] mailing list of 100 emails
