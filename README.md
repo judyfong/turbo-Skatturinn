@@ -34,6 +34,7 @@ customers. If we include other european customers like Czech, England, or German
 - [ ] QC up to 1.000.000 ISK
 - [ ] support amended tax returns: 1040x https://www.irs.gov/pub/irs-pdf/f1040x.pdf
 - [ ] focus on software for IFRS small and medium enterprises (SME)
+https://stocks.apple.com/AB9-xmoQ8S1mYNDNBWmN4PQ
 
 ### Second year
 - [ ] pay ourselves a salary of about 10,000 - 20,000 ISK an hr
