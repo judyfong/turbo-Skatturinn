@@ -76,6 +76,7 @@ home insurance itemization list
 - [ ] works with Form 1040
 - [ ] update through GUI the IRA amount
 - [ ] Meets US GAAP and IFRA requirements
+- [ ] irs tax form 8949
 - [ ] [Supports the same forms as free file fillable Forms and more: https://www.irs.gov/e-file-providers/free-file-fillable-forms-program-limitations-and-available-forms](https://www.irs.gov/e-file-providers/free-file-fillable-forms-program-limitations-and-available-forms)
 - [ ] access the irs foreign currency exchange rates as an api: [https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates](https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates) either json or as an fastapi endpoint
 - [ ] csv import and export
@@ -130,3 +131,5 @@ https://www.irs.gov/pub/irs-pdf/f8992.pdf
 
 form 8858
 https://payday.is/en/home
+
+https://www.greenbacktaxservices.com/knowledge-center/foreign-business-tax-reporting/
