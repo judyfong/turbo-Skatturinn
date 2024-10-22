@@ -119,5 +119,11 @@ home insurance itemization list
 - Intuit
 - freefillefillableforms
     - missing some business forms
-- [Taxes for Expats](https://www.taxesforexpats.com/about/about-us.html)    
+- [Taxes for Expats](https://www.taxesforexpats.com/about/about-us.html)
 
+- https://www.taxact.com/support/21865/2023/form-5471-number-of-forms-supported?hideLayout=False#:~:text=At%20this%20time%2C%20we%20only,must%20paper%20file%20the%20return.
+-  https://en.wikipedia.org/wiki/Taxation_in_Iceland#:~:text=Despite%20low%20tax%20rates%20in,due%20in%20March%20each%20year.
+-  https://mgz.com.tw/2024/09/20/maximizing-your-tax-return-in-iceland-a-comprehensive-guide/
+-  https://opentaxsolver.sourceforge.net/
+https://www.irs.gov/pub/irs-pdf/f5471.pdf
+https://www.irs.gov/pub/irs-pdf/f8992.pdf
