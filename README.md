@@ -129,6 +129,8 @@ home insurance itemization list
 -  https://opentaxsolver.sourceforge.net/
 https://www.irs.gov/pub/irs-pdf/f5471.pdf
 https://www.irs.gov/pub/irs-pdf/f8992.pdf
+https://www.taxpayeradvocate.irs.gov/news/nta-blog/filing-and-paying-taxes-for-u-s-citizens-or-residents-living-abroad/2024/04/
+
 
 form 8858
 https://payday.is/en/home
