@@ -90,8 +90,9 @@ home insurance itemization list
     - [ ] AAAAFramtal
 ### buisness owners
 - [ ] Form 926
-- [ ] form 5471
+- [ ] form 5471 - explains it https://www.taxesforexpats.com/articles/foreign-business/form-5471.html
 - [ ] Form 8992 - GILTI , [Instructions](https://www.irs.gov/instructions/i8992#en_US_202312_publink100046264)
+        GILTI is part of 5471 tax form
 - [ ] comparable to powerBI
 - [ ] [https://github.com/judyfong/vid505g-arsreikningagerdA](https://github.com/judyfong/vid505g-arsreikningagerdA)
 ### Rich people
