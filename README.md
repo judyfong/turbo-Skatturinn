@@ -117,6 +117,9 @@ home insurance itemization list
 - YNAB - you need a budget
 -     currently operates as software as a service
 
+### Net worth trackers
+https://www.reddit.com/r/investing/comments/1hz5rrz/i_tried_every_net_worth_tracking_app_so_you_dont/
+
 ### Tax software
 - accountants
 - Intuit
